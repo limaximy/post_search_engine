@@ -1,4 +1,5 @@
 from sqlite3db import Sqlite3DB
+import pytest
 
 def test_select_id_from_position():
     db_object = Sqlite3DB("tutorial.db")
