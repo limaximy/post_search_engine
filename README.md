@@ -18,10 +18,10 @@ It allows you to find people of the user's chosen age through likes on VK posts.
 git clone https://github.com/limaximy/post_search_engine.git
 cd post_search_engine
 
-python -m venv venv # создание виртуального окружения
-source venv/bin/activate   # запуск venv на Linux / macOS
-venv\Scripts\activate   # запуск venv на Windows
-pip install -r requirements.txt # установка требуемых зависимостей
+python -m venv venv # creating a virtual environment
+source venv/bin/activate   # enable venv for Linux / macOS
+venv\Scripts\activate   # enable venv for Windows
+pip install -r requirements.txt # installation of necessary packages
 ```
 
 ***
