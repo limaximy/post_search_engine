@@ -31,7 +31,7 @@ pip install -r requirements.txt # installation of necessary packages
 
 ## Creating a token
 
-Getting a token is described in the VK API documentation
+Getting a token is described in the VK API documentation (i created the app here https://id.vk.com/about/business/go/ and used the Service Access Key)
 
 Encrypting the token to work in the program:
 ```
